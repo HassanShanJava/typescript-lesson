@@ -7,3 +7,6 @@ const user:{name:string, age:number, design:string} = {
 
 console.log('Hassan Shan');
 console.log(user.name);
+
+
+export{};
